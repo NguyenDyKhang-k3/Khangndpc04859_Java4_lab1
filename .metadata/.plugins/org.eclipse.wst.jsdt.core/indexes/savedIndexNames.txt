@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\FPT poly\ki5\Java4\noplab\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+479383116.index
+3750127981.index
+1624737588.index
+3328707855.index
+4219279280.index
+2890983838.index
+575134245.index

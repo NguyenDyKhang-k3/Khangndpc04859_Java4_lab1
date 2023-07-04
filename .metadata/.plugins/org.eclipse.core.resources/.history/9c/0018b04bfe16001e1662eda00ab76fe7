@@ -1,0 +1,31 @@
+
+package com.mycompany.maytinhtesst;
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+/**
+ *
+ * @author khang
+ */
+public class MayTinhTesstTest {
+    MayTinhTesst mt;
+    public MayTinhTesstTest() {
+        mt = new MayTinhTesst();
+    }
+
+    @Test
+    public void testCong() {
+        int result = mt.cong(3, 4);
+        int expected = 7;
+        assertEquals(expected, result);
+    }
+    
+    @Test
+    public void testTru() {
+        int result = mt.cong(9, 5);
+        int expected = 4;
+        assertEquals(expected, result);
+    }
+    
+}
